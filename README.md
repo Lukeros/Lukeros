@@ -17,13 +17,20 @@ Before modify this web, please append your path file with the following, replaci
 
 ```
 export PATH=$HOME/.gem/ruby/X.X.0/bin:$PATH
+git pull
 ```
-
 
 Then check the plugins in Gemfile, and build a local serve to modify this web
 
 ```
 install bundler
 bundle exec jekyll serve
+```
 
+After modify, use these code to upload changes to Github
+
+```
+git add -A .
+git commit -m ""
+git push
 ```

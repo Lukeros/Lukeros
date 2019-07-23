@@ -17,4 +17,4 @@ comments: false
 
 * stay tuned!
 
-[Join us!](http://www.psy.pku.edu.cn/xwzx/tzgg/index.htm){: .btn}
+[Join us!]({{ site.url }}/join/}}){: .btn}

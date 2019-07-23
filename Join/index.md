@@ -44,4 +44,4 @@ One goal of the lab is to provide undergraduates opportunities with sufficient h
 </div>
 
 
-[Join Us!](http://www.psy.pku.edu.cn/index.htm){: .btn}
+[Join Us!](http://www.psy.pku.edu.cn/xwzx/tzgg/309944.htm){: .btn}
