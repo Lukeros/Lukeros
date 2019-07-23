@@ -5,7 +5,7 @@ First written on 10/10/2018 by [Haoxue Fan](https://github.com/jianlilab/jianlil
 
 Re-written on 20/07/2019 by Kuo Liu
 
-If there's any suggestion about out website / any inquiry about further info, don't hesitate and please shoot an email to  kuoliu93@gmail.com!
+If there's any suggestion about out website / any inquiry about further info, don't hesitate and please send email to  kuoliu93@gmail.com!
 
 ====================
 
