@@ -17,4 +17,4 @@ comments: false
 
 * stay tuned!
 
-[Join us!]({{ site.url }}/join/}}){: .btn}
+[Join us!](https://lukeros.github.io/Lukeros/Join/){: .btn}
